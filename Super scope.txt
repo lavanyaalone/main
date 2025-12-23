@@ -1,0 +1,10 @@
+Super scope 
+Multicast scope : ex:- router 
+**three types are
+1.Broadcast
+2.Unique cast
+3.Multicast
+
+
+Filters :- white list(accept) and black list(deny)   
+Policies :- terms and condition 
